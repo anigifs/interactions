@@ -1,2 +1,2 @@
-# ℹ️ Moved to https://git.taigabot.net/taiga/anigifs/interactions ℹ️
 # interactions
+Do a Fork and create a PR to add new images
